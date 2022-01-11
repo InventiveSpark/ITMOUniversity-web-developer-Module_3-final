@@ -155,8 +155,8 @@ section:nth-of-type(even) {
     /* Горизонтальное выравнивание текста (или строчных элементов): */
     text-align: center;
     text-transform: uppercase;
-    /* Задание гарнитуры шрифта с засечками: */
-    font-family: 'Philosopher', serif;
+    /* Задание гарнитуры шрифта без засечек: */
+    font-family: 'Philosopher', sans-serif;
     font-size: 60px;
     font-weight: 600;
     line-height: 112px;
@@ -190,8 +190,8 @@ section:nth-of-type(1) {
 
 /* Заголовок первого раздела */
 .main__header {
-    /* Задание гарнитуры шрифта с засечками: */
-    font-family: 'Philosopher', serif;
+    /* Задание гарнитуры шрифта без засечек: */
+    font-family: 'Philosopher', sans-serif;
     font-size: 55px;
     font-weight: 400;
     line-height: 112px;
@@ -258,8 +258,8 @@ section:nth-of-type(1) {
 }
 
 .about__info_header {
-    /* Задание гарнитуры шрифта с засечками: */
-    font-family: 'Philosopher', serif;
+    /* Задание гарнитуры шрифта без засечек: */
+    font-family: 'Philosopher', sans-serif;
     font-size: 30px;
     margin-bottom: 14px;
 }
@@ -310,8 +310,8 @@ section:nth-of-type(1) {
     /* Горизонтальное выравнивание текста (или строчных элементов): */
     text-align: justify;
     color: #008daa;
-    /* Задание гарнитуры шрифта с засечками: */
-    font-family: 'Philosopher', serif;
+    /* Задание гарнитуры шрифта без засечек: */
+    font-family: 'Philosopher', sans-serif;
     font-size: 24px;
     font-weight: 600;
     line-height: 23px;
@@ -381,7 +381,7 @@ section:nth-of-type(1) {
 
 .questions__knowmore, .questions__asklink {
     color: #008daa;
-    font-family: 'Philosopher', serif;
+    font-family: 'Philosopher', sans-serif;
     font-weight: 600;
     font-size: 36px;
     line-height: 36px;
@@ -432,7 +432,7 @@ section:nth-of-type(1) {
 /* Имя выпускника и год выпуска: */
 .reviews__item_person {
     color: #008daa;
-    font-family: 'Philosopher', serif;
+    font-family: 'Philosopher', sans-serif;
     font-size: 30px;
     line-height: 30px;
 }
